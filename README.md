@@ -6,7 +6,7 @@ Codebase for **SCOOP'D: Learning Mixed-Liquid-Solid Scooping via Sim2Real Genera
 
 SCOOP'D studies robotic scooping in mixed liquid-solid environments. The system collects scooping demonstrations in simulation, learns generative policies with Diffusion Policy, and deploys the learned policy to real-world robot scooping tasks.
 
-> This repository is under active cleanup. Full installation instructions, checkpoints, datasets, and training scripts will be released later.
+Dataset for the pre-scoop pose and scoop policy are in the cache dir
 
 ## Structure
 
